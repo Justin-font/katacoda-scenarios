@@ -11,7 +11,7 @@ Warnning on your machine running docker without sudo iis higly unrecomander for 
 - Now start python :`python`{{execute}} .
 - Print Datamaran:`print('datamaran')`{{execute}} .
 - exit from python:  `exit()`{{execute}} .
-- exit from the container : `exit()`{{execute}} .
+- exit from the container : `exit`{{execute}} .
 
 ## Ubuntu and then install python? i don't need it 
 It make more sens to create a python container !
