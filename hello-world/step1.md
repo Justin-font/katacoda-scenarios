@@ -16,8 +16,8 @@ Warnning on your machine running docker without sudo iis higly unrecomander for 
 ## Ubuntu and then install python? i don't need it 
 It make more sens to create a python container !
 - create a python conatainer: ` docker run -ti python `{{execute}} .
-- exit from python:  `exit()`{{execute}} .
-- exit from the container : `exit()`{{execute}} .
+- Print Datamaran:`print('datamaran')`{{execute}} .
+- exit from python (and the container btw):  `exit()`{{execute}} .
 
 ## woaw without instaling python i can run python !
 And you can run more than pyhton, node, mongoDB, almost every tech have it own image and you can also create your own.
