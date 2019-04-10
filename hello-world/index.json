@@ -5,10 +5,13 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Container",
+      "title": "Introduction",
+      "text": "introDocker.md"
+    },{
+      "title": "Container",
       "text": "step1.md"
     },{
-      "title": "Step 2 - Images",
+      "title": "Images",
       "text": "step2.md"
     }],
     "intro": {
