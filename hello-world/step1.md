@@ -1,7 +1,3 @@
-This is your first step.
-#Intro
-You should run docker in sudo, but for this tuto we will do thing in root les mode (without sudo)
-Warnning on your machine running docker without sudo iis higly unrecomander for security purpose
 #Container 
 ## First step ubuntu container
 - create a _ubuntu_ **container** from by running :
@@ -22,3 +18,5 @@ It make more sens to create a python container !
 ## woaw without instaling python i can run python !
 And you can run more than pyhton, node, mongoDB, almost every tech have it own image and you can also create your own.
 Here you can see all images avaible on Docker https://hub.docker.com/search?q=&type=image
+" Why did he talk about images ? i don't see any picture"
+Ho sorry, I will explain you in the second part what are images in the  docker jargon :) 
