@@ -13,7 +13,7 @@ Warnning on your machine running docker without sudo iis higly unrecomander for 
 - exit from python:  `exit()`{{execute}} .
 - exit from the container : `exit`{{execute}} .
 
-## Ubuntu and then install python? i don't need it 
+## Ubuntu and then install python? It's so long and .. boring
 It make more sens to create a python container !
 - create a python conatainer: ` docker run -ti python `{{execute}} .
 - Print Datamaran:`print('datamaran')`{{execute}} .
