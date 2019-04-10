@@ -5,7 +5,7 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Introduction",
+      "title": "Introduction to Docker",
       "text": "introDocker.md"
     },{
       "title": "Container",
