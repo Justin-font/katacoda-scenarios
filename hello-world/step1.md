@@ -7,7 +7,7 @@ Warnning on your machine running docker without sudo iis higly unrecomander for 
 - create a _ubuntu_ **container** from by running :
 - `docker run -ti ubuntu`{{execute}}.
 - now you are in the ubuntu container
-- lets intall python : `apt-get update; apt-get install curl`{{execute}} then `Y`{{execute}}. 
+- lets intall python : `apt-get update; apt-get install python`{{execute}} then `Y`{{execute}}. 
 - Now start python :`python`{{execute}} .
 - Print Datamaran:`print('datamaran')`{{execute}} .
 - exit from python:  `exit()`{{execute}} .
