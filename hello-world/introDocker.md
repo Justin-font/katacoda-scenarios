@@ -16,6 +16,10 @@ Containers are not new, but their use for easily deploying applications is.
 2. **App isolation:** If you want to run multiple applications on one server.
 3. **Developer teams:** If you have developers working with different setups.
 
+## How to install it :
+In this tutorial yu can use the online terminal.
+for mac : https://docs.docker.com/docker-for-mac/install/
+
 ## Security warnning
 You must run docker in sudo, but for this tuto we will do it in rootles mode (without sudo)
 Warnning on your computer running docker without sudo is highly not recommended for security purpose
