@@ -13,6 +13,9 @@
     },{
       "title": "Images",
       "text": "step2.md"
+    },{
+      "title": "docker-compose",
+      "text": "step3.md"
     }],
     "intro": {
       "text": "intro.md",
