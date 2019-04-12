@@ -7,7 +7,7 @@ Images, all is about images, in this comand : **docker run -ti ubuntu**
 ## How can i create my own image
 To create an image you need to write a **Dockerfile** whitch will tell to docker the steps to configure our image
 Here we are going to create a web server withb nginx (nginx is avaible on any platform, it's the most used web server and have is official docker image `nginx`)
-- Lets pull from git some examples  : `git pull;  cd Docker/docker_examples/nginx `{{execute}}
+- Lets pull from git some examples  : `git clone https://github.com/Justin-font/Docker.git;  cd Docker/docker_examples/nginx `{{execute}}
 - Lets analyse it : `cat Dockerfile`
 - **From nginx** We specify the basic image here nginx
 - **ADD index.html /usr/share/nginx/html** we add our html page in the root of the nginx server
