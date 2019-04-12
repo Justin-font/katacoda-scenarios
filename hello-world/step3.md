@@ -20,15 +20,7 @@ You can add `-d` afeter `up` to run it in detached mode
 Click on the cross on the top off the terminal and oppen **HTTP port 80**
 It's the same result but with docker compose !
 
-Lets edit the `index.html` file
-- `vim index.html`{{execute}}
-- `:imap jj <Esc>`{{execute}}
-- `i`{{execute}}
-- `some stuff`{{execute}}
-- `jj`{{execute}}
-- ` :wq`{{execute}}
 
-Okay now we have modified our index.html
 
 
 Click on the cross on the top off the terminal and oppen **HTTP port 80**
