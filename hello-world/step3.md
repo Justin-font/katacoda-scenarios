@@ -11,7 +11,7 @@ First analyse the docker-compose.yml file:
 -  `ports` specify port for HOST:CONTAINER
 -  `volume` specify linked forlder/file HOST:CONTAINER
 
-Now we can start our docker-compose run : `docker-compose up --build`{{execute}}
+Now we can start our docker-compose run : `docker-compose up -d --build`{{execute}}
 - `docker-compose` we use docker-compose tool
 - `up` to start all of the containers 
 - `--build` to build the containers
