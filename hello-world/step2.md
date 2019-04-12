@@ -26,8 +26,12 @@ This is the basic, in our Dockerfile we specify all that wee need to run our apl
 - - ngx the name of our image
 - Click on the top of the terminal and select **View HTTP port 80**
 - Woaw it just setup a server in 1 minutes, so fast 
-
+## Stop the container
+To continue this intro stop the container
+- `docker container ls`{{execute}}
+- the type : docker kill {{the container id of the inage ngx}}
 ## Have you meet docker-compose ?
+
 
 
 
