@@ -19,8 +19,8 @@ You can add `-d` afeter `up` to run it in detached mode
 
 Click on the cross on the top off the terminal and oppen **HTTP port 80**
 It's the same result but with docker compose !
-
-
+See the logs : `docker-compose logs`{{execute}}
+Stop the compose : `docker-compose down`{{execute}}
 
 
 Click on the cross on the top off the terminal and oppen **HTTP port 80**
