@@ -5,10 +5,11 @@ You can define network to specify the connection between container, Env varriabl
 Sorry, volume allow you to  persist data into the container, it's like a link betwen the target file/folder in the contaier and the one one you're computer, for example you can modify your code on your conputer and with a voume.
 
 ## Lets compose
+We will open the python example
+- cd `cd ../python`
 First analyse the docker-compose.yml file:
 - `cat docker-compose.yml`{{execute}}
 - `build` specify the path to the Dockerfile here . 
--  `ports` specify port for HOST:CONTAINER
 -  `volume` specify linked forlder/file HOST:CONTAINER
 
 Now we can start our docker-compose run : `docker-compose up -d --build`{{execute}}
