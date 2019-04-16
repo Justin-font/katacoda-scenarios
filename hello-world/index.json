@@ -2,7 +2,7 @@
   "title": "Dorcker intro",
   "description": "You will learn the basic of docker",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
       "title": "Introduction to Docker",
